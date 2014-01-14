@@ -7,6 +7,7 @@ use strict;
 
 my $i;
 
+# Ausgabe auf STDOUT
 print "Script Script.pl is working...\n";
 
 ###############################################################################
