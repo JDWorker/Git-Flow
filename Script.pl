@@ -10,17 +10,23 @@ my $i;
 # Ausgabe auf STDOUT
 print "Script Script.pl is working...\n";
 
-###############################################################################
-#
-# For-Schleife
-#
-for ($i=0;$i<10;$i++)
-{
-    print $i;
-}
-
 # Ausgabe auf STDOUT
 print "...done\n";
+
+exit;
+
+###############################################################################
+#
+# Function: output
+#
+sub output
+{
+    my $z;
+    for ($z=0;$z<10;$z++)
+    {
+        print $z;
+    }
+}
 
 #
 # Script Ende
