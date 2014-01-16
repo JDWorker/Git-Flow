@@ -9,6 +9,7 @@ my $i;
 
 for($i=0;$i<10;$i++)
 {
+    # Ausgabe auf STDOUT
     print $i;
 }
 
