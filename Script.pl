@@ -5,6 +5,13 @@ use strict;
 # Script: Script.pl
 #
 
+my $i;
+
+for($i=0;$i<10;$i++)
+{
+    print $i;
+}
+
 #
 # Script Ende
 #
