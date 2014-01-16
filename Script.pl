@@ -5,11 +5,13 @@ use strict;
 # Script: Script.pl
 #
 
+# Globale Variablen Definitionen
 my $i;
 
-for($i=0;$i<10;$i++)
+for($i=0;$i<20;$i++)
 {
-    print $i;
+    # Ausgabe auf STDOUT
+    print "Counter : $i";
 }
 
 #
