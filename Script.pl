@@ -7,25 +7,9 @@ use strict;
 
 my $i;
 
-# Ausgabe auf STDOUT
-print "Script Script.pl is working...\n";
-
-# Ausgabe auf STDOUT
-print "...done\n";
-
-exit;
-
-###############################################################################
-#
-# Function: output
-#
-sub output
+for($i=0;$i<10;$i++)
 {
-    my $z;
-    for ($z=0;$z<10;$z++)
-    {
-        print $z;
-    }
+    print $i;
 }
 
 #
