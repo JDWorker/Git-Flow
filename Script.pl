@@ -8,10 +8,10 @@ use strict;
 # Globale Variablen Definitionen
 my $i;
 
-for($i=0;$i<10;$i++)
+for($i=0;$i<20;$i++)
 {
     # Ausgabe auf STDOUT
-    print $i;
+    print "Counter : $i";
 }
 
 #
