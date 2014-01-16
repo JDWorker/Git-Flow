@@ -5,6 +5,7 @@ use strict;
 # Script: Script.pl
 #
 
+# Globale Variablen Definitionen
 my $i;
 
 for($i=0;$i<10;$i++)
