@@ -8,6 +8,7 @@ use strict;
 # Globale Variablen Definitionen
 my $i;
 my $a;
+my $b;
 
 # For-Schleife
 for($i=0;$i<40;$i++)
