@@ -18,6 +18,8 @@ for($i=0;$i<40;$i++)
     # Ausgabe auf STDOUT
     print "----\n";
     
+    print $a;
+    
     # Ausgabe auf STDOUT
     print "----\n";
 }
