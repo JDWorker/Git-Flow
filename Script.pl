@@ -15,6 +15,8 @@ for($i=0;$i<40;$i++)
     # Ausgabe auf STDOUT
     print "Counter : $i";
     
+    print "----\n";
+    
     # Ausgabe auf STDOUT
     print "----\n";
 }
