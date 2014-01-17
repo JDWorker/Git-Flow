@@ -9,7 +9,7 @@ use strict;
 my $i;
 
 # For-Schleife
-for($i=0;$i<20;$i++)
+for($i=0;$i<40;$i++)
 {
     # Ausgabe auf STDOUT
     print "Counter : $i";
