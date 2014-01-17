@@ -18,6 +18,7 @@ for($i=0;$i<40;$i++)
     # Ausgabe auf STDOUT
     print "----\n";
     
+    # Ausgabe Globale Variable a auf STDOUT
     print $a;
     
     # Ausgabe auf STDOUT
