@@ -8,7 +8,6 @@ use strict;
 # Globale Variablen Definitionen
 my $i;
 my $a;
-my $b;
 
 # For-Schleife
 for($i=0;$i<40;$i++)
@@ -19,7 +18,10 @@ for($i=0;$i<40;$i++)
     # Ausgabe auf STDOUT
     print "----\n";
     
-    print "b";
+    print $a;
+    
+    # Ausgabe auf STDOUT
+    print "----\n";
 }
 
 #
